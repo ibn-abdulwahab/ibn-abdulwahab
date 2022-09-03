@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbuMuftee
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning more of flutter
+- 🌱 I’m currently working more with flutter
 - 💞️ I’m looking to collaborate on system design and coding
 - 📫 How to reach me @abumuftee
 
