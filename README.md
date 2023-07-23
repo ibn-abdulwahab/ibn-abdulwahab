@@ -1,4 +1,4 @@
-Welcome to my profile, and this is who I am!
+# Welcome to my profile!
 I have been actively developing cross-platform applications with Flutter since 2021, maintaining my position as Flutter Tech-Lead at Google Developers Group (GDG) Keffi, Nigeria. I also mentor other Flutter developers for an hour daily and contribute to the Flutter community for another hour in the course of 24 hours.
 
 And the start?
