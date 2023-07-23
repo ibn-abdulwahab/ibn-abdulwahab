@@ -1,12 +1,28 @@
 # Hi, I am Sulaiman Hamza Abdulwahab <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35px">
 
-🎓 I am currently pursuing my **Bachelor's in Computer Science Engineering**.
+🌱 I am **Flutter Tech-Lead** at Google Developers Group (GDG) Keffi, Nigeria.
 
-🌱 I am currently learning **Java** and also interested in **Web Development**.
+✨ I have been actively developing **cross-platform applications** with **Flutter** since **2021**.
 
-🎯 My Goal is to Contribute to as many **open source project** as possible.
+📝 I actively mentor other Flutter developers through my [LinkedIn]([https://](https://www.linkedin.com/in/abumuftee/)) account
 
-✨ I love to create different types of **contents**.
+🎯 My Goal is to work on life-changing applications and contribute to as many **open source project** as possible.
+
+WORKOUTICON Away from keyboard I like going to gym and playing football.
+
+![GitHub Activity Graph](https://cdn.hackernoon.com/images/cl-0-trqiv-904-gq-0-as-63-xgab-2-dm.jpg)
+
+## Let's connect HANDSHAKE
+
+LINKEDIN  GMAIL UPWORK
+
+## Stats📈
+
+<p align="center">
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=#AbuMuftee&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="#AbuMuftee" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=#AbuMuftee&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="#AbuMuftee" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=#AbuMuftee&theme=highcontrast&hide_border=true" alt="#AbuMuftee" />
+</p>
 
 I have been actively developing cross-platform applications with Flutter since 2021, maintaining my position as Flutter Tech-Lead at Google Developers Group (GDG) Keffi, Nigeria. I also mentor other Flutter developers for an hour daily and contribute to the Flutter community for another hour in the course of 24 hours.
 
