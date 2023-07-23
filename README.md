@@ -1,4 +1,13 @@
-# Welcome to my profile!
+# Hi, I am Sulaiman Hamza Abdulwahab <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35px">
+
+🎓 I am currently pursuing my **Bachelor's in Computer Science Engineering**.
+
+🌱 I am currently learning **Java** and also interested in **Web Development**.
+
+🎯 My Goal is to Contribute to as many **open source project** as possible.
+
+✨ I love to create different types of **contents**.
+
 I have been actively developing cross-platform applications with Flutter since 2021, maintaining my position as Flutter Tech-Lead at Google Developers Group (GDG) Keffi, Nigeria. I also mentor other Flutter developers for an hour daily and contribute to the Flutter community for another hour in the course of 24 hours.
 
 And the start?
