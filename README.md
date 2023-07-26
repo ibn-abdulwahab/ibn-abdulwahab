@@ -6,12 +6,24 @@
 
 ✨ I have been actively developing **cross-platform applications** with **Flutter** since **2021**.
 
-📝 I actively mentor other Flutter developers through my [LinkedIn]([https://](https://www.linkedin.com/in/abumuftee/)) account
+📝 I actively mentor other Flutter developers through my [LinkedIn](https://www.linkedin.com/in/abumuftee/) account
 
 🎯 My Goal is to work on life-changing applications and contribute to as many **open source project** as possible.
 
 🏋️‍♂️ Away from the keyboard, I like going to the gym and playing ⚽ football.
 
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
 <details>
   <summary>More about me 🏹</summary>
@@ -30,6 +42,12 @@ Well, I learned the fundamentals of Flutter 2019, but then it wasn't much richer
 </details>
 
 [![Abumuftee's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbuMuftee&show_icons=true&theme=radical&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
+
+### 🤝Let's connect 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abumuftee/)
+[![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://upwork.com/freelancers/~01768f4b23c6486303)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abumuftee@gmail.com?subject=Hello:%20Through%20GitHub&body=Hello%20Sulaiman%20(Abumuftee),%20I%20am%20connecting%20with%20you%20from%20GitHub%20to%20discuss%20...)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@abumuftee2.0)
 
 👁 Explore the repositories for more, don't forget to star ⭐ those you like.
 
