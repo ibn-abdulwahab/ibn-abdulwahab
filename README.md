@@ -45,7 +45,7 @@ Well, I learned the fundamentals of Flutter 2019, but then it wasn't much richer
 
 ### 🤝Let's connect 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abumuftee/)
-[![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://upwork.com/freelancers/~01768f4b23c6486303)
+[![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://upwork.com/freelancers/abumuftee)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abumuftee@gmail.com?subject=Hello:%20Through%20GitHub&body=Hello%20Sulaiman%20(Abumuftee),%20I%20am%20connecting%20with%20you%20from%20GitHub%20to%20discuss%20...)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@abumuftee2.0)
 
